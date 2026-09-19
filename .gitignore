@@ -1,1 +1,2 @@
 .env
+.targetgit rm -r --cached target
